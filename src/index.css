@@ -1,0 +1,11 @@
+/* Force full height and allow flex centering */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cfe8fc; /* fallback blue background */
+}
