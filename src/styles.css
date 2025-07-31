@@ -9,7 +9,7 @@ body, html, #root {
 /* App backgrounds */
 .app-background,
 .star-wars-bg {
- background-image: url("C:/Users/yoges/GBU-MAMEEY/public/peakpx.jpg");
+ background-image: url("/peakpx.jpg");
  /* Change this if needed */
   background-size: cover;
   background-position: center;
