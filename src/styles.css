@@ -9,7 +9,8 @@ body, html, #root {
 /* App backgrounds */
 .app-background,
 .star-wars-bg {
-  background-image: url("E:/mongo db/peakpx.jpg"); /* Change this if needed */
+ background-image: url('/peakpx.jpg');
+ /* Change this if needed */
   background-size: cover;
   background-position: center;
   height: 100%;
